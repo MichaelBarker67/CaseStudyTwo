@@ -50,6 +50,21 @@ hist(data$JobSat)
 
 summary(data$YrsAtComp)
 hist(data$YrsAtComp)
+
+summary(data$Education)
+hist(data$Education)
+
+summary(data$Gender)
+hist(data$Gender)
+
+summary(data$JobRole)
+hist(data$JobeLevel)
+
+summary(data$HourlyRate)
+hist(data$HourlyRate)
+
+summary(data$MonthlyRate)
+hist(data$MonthlyRate)
 ```
 
 ```{r 3C, echo=TRUE}
